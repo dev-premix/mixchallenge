@@ -35,13 +35,13 @@ PS: Não é necessário implementar JWT, pode apenas criar um hash qualquer e va
 Cadastro básico com os seguintes campos
 ```json
 {
-	id: Number,
-	nome: String,
-	qtdBovinos: Number,
-	qtdEquinos: Number,
-	inicioConfinamento: Date,
-	fimConfinamento: Date,
-	usrCriacao: String
+	"id": "Number",
+	"nome": "String",
+	"qtdBovinos": "Number",
+	"qtdEquinos": "Number",
+	"inicioConfinamento": "Date",
+	"fimConfinamento": "Date",
+	"usrCriacao": "String"
 }
 ```
 Lembrando que para efetuar o cadastro o usuário precisa estar logado com um usuário administrador.
