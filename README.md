@@ -1,6 +1,6 @@
 # mix-challenge
 ## Problema:
-Em um determinado confinamento temos a necessidade de saber qual vai ser a quantidade de ração a ser entregue no cocho, para isso a tecnologia precisa ajudar o tratador.
+Em um determinado confinamento temos a necessidade de saber qual vai ser a quantidade de ração a ser entregue aos animais, para isso a tecnologia precisa ajudar o tratador.
 
 O tratador irá predefinir qual o numero de animais e seu tipo em cada confinamento, e com isso o sistema irá apontar qual seria a quantidade necessária de ração por dia.
 
