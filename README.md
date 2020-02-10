@@ -81,8 +81,6 @@ Sabe-se que um Boi começa o confinamento com 400kg e um Cavalo começa o 200kg,
 * Tornar o layout do front-end responsivo.
 * Utilização de boas praticas de UX
 
-Boa sorte,
-
-Equipe Premix
-
+Boa sorte,  
+Equipe Premix  
 dev@premix.com.br
