@@ -54,7 +54,7 @@ Criar um serviço que poderá ser acessado por usuários admins ou não, onde pa
 Sabe-se que um Boi começa o confinamento com 400kg e um Cavalo começa o 200kg, o ganho de peso diário é em torno de 800gr para o cavalo e 1.1kg para o Boi, e o trato diário de cada animal é em torno de 0.005% do seu peso, com base nessas informações já é possível calcular o peso projetado do rebanho e a quantidade de ração necessária para cada dia.
 ## 2 – Front-end
 
-- Elaborar um template administrativo (Header, footer, side-menu) utilizando React
+- Elaborar um template administrativo (Header, footer, side-menu) utilizando um framework a sua escolha _(Preferencialmente React)_
 
 - Tela de login que faz uso do serviço de autenticação
 
@@ -63,7 +63,7 @@ Sabe-se que um Boi começa o confinamento com 400kg e um Cavalo começa o 200kg,
 - Listagem de confinamentos e tratos
 
 ## 3 – Mobile
-- Elaborar um aplicativo utilizando ReactJS
+- Elaborar um aplicativo utilizando um framework a sua escolha - _(Preferencialmente React Native)_
 
 - Tela de login
 
